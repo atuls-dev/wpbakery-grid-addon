@@ -1,2 +1,2 @@
 # wpbakery-grid-addon
-created grid addon for wpbakery wordpress plugin
+Created grid addon for wpbakery wordpress plugin
